@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ns:StockFile xmlns:doc="urn:schemas-basda-org:schema-extensions:documentation" xmlns:ns="urn:StockFile:PT_1_02" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ns:StockHeader>
+        <ns:FileVersion>1_02</ns:FileVersion>
+        <ns:TaxRegistrationNumber>000000000</ns:TaxRegistrationNumber>
+        <ns:FiscalYear>2020</ns:FiscalYear>
+        <ns:EndDate>2020-12-31</ns:EndDate>
+        <ns:NoStock>false</ns:NoStock>
+    </ns:StockHeader>
+    <ns:Stock>
+        <ns:ProductCategory>M</ns:ProductCategory>
+        <ns:ProductCode>00000000000000000000</ns:ProductCode>
+        <ns:ProductDescription>VELAS</ns:ProductDescription>
+        <ns:ProductNumberCode>8428451021900</ns:ProductNumberCode>
+        <ns:ClosingStockQuantity>17</ns:ClosingStockQuantity>
+        <ns:UnitOfMeasure>UNIDADE</ns:UnitOfMeasure>
+        <ns:ClosingStockValue>0.5691</ns:ClosingStockValue>
+    </ns:Stock>
+    <ns:Stock>
+        <ns:ProductCategory>M</ns:ProductCategory>
+        <ns:ProductCode>A11</ns:ProductCode>
+        <ns:ProductDescription>SAPATO</ns:ProductDescription>
+        <ns:ProductNumberCode>A11</ns:ProductNumberCode>
+        <ns:ClosingStockQuantity>4</ns:ClosingStockQuantity>
+        <ns:UnitOfMeasure>UNIDADE</ns:UnitOfMeasure>
+        <ns:ClosingStockValue>6.8699</ns:ClosingStockValue>
+    </ns:Stock>
+</ns:StockFile>
