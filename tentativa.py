@@ -40,7 +40,7 @@ def write_csv(product_info):
 
 
 
-info_xml("STOCKSAFT-214805107-2020-12-31 PRECO.xml")
+info_xml("piece_xml_30358.xml")
 #print(product_list) 
 #[['00000000000000000000', 'VELAS', '8428451021900', '17', '0.5691'], ['A11', 'SAPATO', 'A11', '4', '6.8699']]
 
